@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCADAConfiguration>
+  <SystemName>SistemSortareInteligenta</SystemName>
+  <Tags>
+    <Tag Name="BeltSpeed" Type="REAL" Address="400100"/>
+    <Tag Name="ObjectCount" Type="INT" Address="400101"/>
+  </Tags>
+</SCADAConfiguration>

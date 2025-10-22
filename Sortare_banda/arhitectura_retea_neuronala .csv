@@ -1,0 +1,11 @@
+Componenta,Descriere,Tehnologie_MATLAB,Complexitate
+Banda transportoare virtuală,Simularea mișcării benzii transportoare cu obiecte,Simulink; Simscape Multibody,Medie
+Senzori virtuali de culoare,Detectarea și măsurarea culorii obiectelor (RGB/HSV),Computer Vision Toolbox; Image Processing,Înaltă
+Senzori virtuali de dimensiuni,Măsurarea dimensiunilor obiectelor (lungime, lățime, înălțime),Computer Vision Toolbox; Geometry Processing,Medie
+Sistem de clasificare neuronal,Rețea neurală pentru clasificarea tipului de obiect,Deep Learning Toolbox; Neural Network Toolbox,Foarte înaltă
+Algoritmul de sortare,Algoritm de sortare bazat pe clasificarea NN,Control Systems Toolbox; Stateflow,Înaltă
+Control de viteză adaptivă,Adaptarea vitezei în funcție de tipul obiectului,Control Systems Toolbox; PID Control,Medie
+Interfața Simulink,Implementare în mediul Simulink pentru simulare,Simulink; Robotics System Toolbox,Înaltă
+Vizualizarea 3D,Vizualizare tridimensională a procesului,Simulink 3D Animation,Medie
+Sistemul de control,Control feedback pentru robotul de sortare,Robotics System Toolbox; Control Systems,Înaltă
+Testarea și validarea,Validarea performanței sistemului,Statistics and Machine Learning Toolbox,Medie

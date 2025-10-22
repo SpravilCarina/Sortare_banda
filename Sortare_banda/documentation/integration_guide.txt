@@ -1,0 +1,6 @@
+=== DOCUMENTATIE INTEGRARE SISTEM SORTARE ===
+1. Instalati toate dependintele (toolbox-uri MATLAB)
+2. Configurati comunicarea cu PLC folosind Modbus RTU
+3. Coordonati controlul benzii transportoare cu actiuni robot
+4. Monitorizati si raportati performantele sistemului
+5. Asigurati mentenanta preventiva periodica

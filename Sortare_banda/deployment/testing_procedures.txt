@@ -1,0 +1,6 @@
+=== PROCEDURI TESTARE SISTEM SORTARE ===
+1. Verificarea conexiunilor hardware si software
+2. Calibrarea senzorilor de culoare si dimensiune
+3. Testarea raspunsului pentru fiecare tip de obiect
+4. Monitorizarea performantei in timp real
+5. Backup regulat al modelelor si datelor
